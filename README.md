@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
    T   A   L   H   A
 </h1>
 
