@@ -1,38 +1,62 @@
-🎤 Tells jokes on stage & bugs on Git
+<!-- Junaid's GitHub README – An Extraordinary Manifesto -->
 
-🎮 Makes games no one asked for
+<h1 align="center">
+  🧠 Talha.exe // INITIATED ⚙️
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&lines=Code.+Comedy.+Chaos.;Full-stack+developer+by+day...;Stand-up+comedian+by+mic.;AI+specialist+with+a+god+complex.;Game+dev+with+unfinished+side+quests.;Design+criminal.+Copywriter.+Night+owl."/>
+</p>
 
-💻 Frontend sorcerer + backend survivor
+---
 
-🤖 AI prompt artist | Code therapist | Design criminal
+```
+💾 SYSTEM LOG
+User: junaid
+OS: Cyberpunk Linux v404
+Class: Multi-class anomaly
+Stats: { humor: 100%, caffeine: 98%, burnout: disabled }
+```
 
-✍️ Writes copy that converts or confuses, never in-between
+---
 
-🛠️ TECH I BREAK (AND FIX):
-Frontend: React, Next.js, Tailwind, HTML, CSS
+### 🔧 Skill Matrix: Glitched but Glorious
 
-Backend: Node.js, Express, Firebase, MongoDB
+```json
+{
+  "frontend": ["React", "Next.js", "Tailwind", "HTML/CSS"],
+  "backend": ["Node.js", "Express", "Firebase", "MongoDB"],
+  "gameDev": ["Unity", "Godot", "C#", "p5.js"],
+  "design": ["Figma", "Photoshop", "Midjourney"],
+  "ai/automation": ["OpenAI APIs", "LangChain", "Whisper"],
+  "copywriting": ["Hooks", "Funnels", "Brand Scripts"]
+}
+```
 
-Game Dev: Unity (C#), Godot, p5.js
+---
 
-Design: Figma, Midjourney, Photoshop (Ctrl+Z certified)
+### 🧪 Experimental Projects (Do Not Feed After Midnight)
 
-AI/ML: OpenAI APIs, LangChain, Whisper, HuggingFace
+| 💥 Project     | 🎯 Description                                           | ⚠️ Status        |
+|---------------|--------------------------------------------------------|------------------|
+| `404.ai`      | A website that **only works when you're lost**         | 🔴 Online-ish     |
+| `LaughOS`     | Terminal UI for comedians: jokes via CLI               | 🟡 Unstable       |
+| `CodeCrack`   | A heartbreak game where your only weapon is code       | 🟠 Too emotional  |
+| `PromptRiot`  | AI prompt generator for dangerously creative minds     | 🔵 Fully trained  |
 
-Other: Git, Notion, ChatGPT (emotional support)
+---
 
-🧪 FEATURED EXPERIMENTS
-🧠 Project	⚙️ What It Does
-404.ai	A site that only works when you're lost
-PromptRiot	AI prompt builder for dangerously creative people
-CodeCrack	A game where you debug your way out of a breakup
-LaughOS	Stand-up comedy + terminal interface = pure chaos
+### 📡 Transmission Open: Contact Protocols
 
-🌐 LET’S CONNECT (OR COLLAB BEFORE THE ROBOTS DO)
-📧 you@email.com
+```bash
+> connect --email "junaid@cyberhaat.com"
+> launch --linkedin "linkedin.com/in/junaidthecreator"
+> deploy --ideas "weird, world-breaking, wonderful"
+```
 
-💼 LinkedIn
+<p align="center">
+  <img src="https://media.giphy.com/media/h8Fn1OmHnd1xzrfobL/giphy.gif" width="300"/>
+</p>
 
-📷 [Instagram? Maybe. Depends who’s asking.]
+---
 
-<h3 align="center">⚠️ Warning: May deploy at 3AM with no version control. Proceed with curiosity.</h3> ```
+<h3 align="center">⚡ Fork this README. Build something stupidly brilliant. And never go full normal.</h3>
