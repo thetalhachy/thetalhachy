@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=ACCESS+GRANTED...+Welcome+to+Talha's+Cyberverse;Injecting+Malware+Into+Mediocrity;Standup+Comedian+by+Day,+Code+Assassin+by+Night;Executing+Scripts,+Sniping+Bugs,+Summoning+AI+Demons"/>
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="280"/>
-</p>
 
 ---
 
@@ -140,9 +137,6 @@
 > mission: Disrupt. Entertain. Deploy.
 ```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320"/>
-</p>
 
 ---
 
